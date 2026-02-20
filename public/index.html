@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vyapaar-Hub</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="page-header">
+        <div class="header-top">
+          <h1>Vyapaar-Hub</h1>
+          <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">Dark Mode</button>
+        </div>
+        <p>Plan city-based fulfillment, compare prices, and build orders in one place.</p>
+      </header>
+
+      <section class="panel city-controls" aria-label="Filters">
+        <label class="field">
+          <span>My city</span>
+          <select id="destinationCity"></select>
+        </label>
+
+        <label class="field">
+          <span>Search Product</span>
+          <input id="searchProduct" type="text" placeholder="Search by product name" />
+        </label>
+
+        <label class="field">
+          <span>Category</span>
+          <select id="categorySelect"></select>
+        </label>
+
+        <label class="field">
+          <span>Sort By</span>
+          <select id="sortSelect">
+            <option value="default">Default</option>
+            <option value="price-low">Price: Low to High</option>
+            <option value="price-high">Price: High to Low</option>
+            <option value="rating-high">Rating: High to Low</option>
+            <option value="rating-low">Rating: Low to High</option>
+            <option value="distance">Distance: Nearest First</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="items-section">
+        <div class="section-head">
+          <div>
+            <h2>Products</h2>
+            <p id="resultsCount" class="results-count">0 items</p>
+          </div>
+        </div>
+        <div id="itemsContainer" class="items-grid"></div>
+      </section>
+
+      <section class="panel summary">
+        <div class="summary-head">
+          <h2>Order Summary</h2>
+          <button id="resetOrderBtn" class="summary-reset-btn" type="button" aria-label="Reset order summary">Reset</button>
+        </div>
+        <div class="summary-grid">
+          <article class="summary-card">
+            <p class="summary-label">Cart Items</p>
+            <ul id="cartItemsList" class="cart-items-list">
+              <li class="cart-empty">No items added</li>
+            </ul>
+          </article>
+          <article class="summary-card">
+            <p class="summary-label">Total Items</p>
+            <p id="totalItems" class="summary-value">0</p>
+          </article>
+          <article class="summary-card">
+            <p class="summary-label">Total Quantity</p>
+            <p id="totalQuantity" class="summary-value">0</p>
+          </article>
+          <article class="summary-card">
+            <p class="summary-label">Expected Arrival Time</p>
+            <p id="arrivalTime" class="summary-value">--</p>
+          </article>
+          <article class="summary-card">
+            <p class="summary-label">Items Cost</p>
+            <p id="itemsCost" class="summary-value">₹0</p>
+          </article>
+          <article class="summary-card">
+            <p class="summary-label">Delivery Charge</p>
+            <p id="deliveryCharge" class="summary-value">₹0</p>
+          </article>
+          <article class="summary-card summary-card-total">
+            <p class="summary-label">Total Cost</p>
+            <p id="totalCost" class="summary-value">₹0</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <button id="scrollUpBtn" class="scroll-btn scroll-up-btn" type="button" aria-label="Scroll to top">↑ Go Up</button>
+    <button id="scrollDownBtn" class="scroll-btn scroll-down-btn" type="button" aria-label="Scroll to bottom">↓ Go Down</button>
+
+    <script src="app.js"></script>
+  </body>
+</html>

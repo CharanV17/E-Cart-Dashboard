@@ -1,0 +1,1397 @@
+Item Number,Product,City,Cost per unit ,No. of units
+1,Garlic Oil - Vegetarian Capsule 500 mg,Delhi,393,598
+1,Garlic Oil - Vegetarian Capsule 500 mg,Mumbai,1063,590
+1,Garlic Oil - Vegetarian Capsule 500 mg,Bengaluru,879,353
+1,Garlic Oil - Vegetarian Capsule 500 mg,Kolkata,697,499
+1,Garlic Oil - Vegetarian Capsule 500 mg,Ahmedabad,582,524
+1,Garlic Oil - Vegetarian Capsule 500 mg,Pune,863,453
+1,Garlic Oil - Vegetarian Capsule 500 mg,Lucknow,1311,121
+2,Water Bottle - Orange,Delhi,622,155
+2,Water Bottle - Orange,Mumbai,690,81
+2,Water Bottle - Orange,Bengaluru,670,333
+2,Water Bottle - Orange,Hyderabad,1215,148
+2,Water Bottle - Orange,Chennai,782,89
+2,Water Bottle - Orange,Kolkata,432,140
+2,Water Bottle - Orange,Jaipur,1164,53
+2,Water Bottle - Orange,Lucknow,1142,204
+3,"Brass Angle Deep - Plain, No.2",Delhi,80,325
+3,"Brass Angle Deep - Plain, No.2",Bengaluru,406,397
+3,"Brass Angle Deep - Plain, No.2",Hyderabad,855,369
+3,"Brass Angle Deep - Plain, No.2",Chennai,502,435
+3,"Brass Angle Deep - Plain, No.2",Kolkata,747,223
+3,"Brass Angle Deep - Plain, No.2",Pune,916,618
+3,"Brass Angle Deep - Plain, No.2",Jaipur,484,345
+3,"Brass Angle Deep - Plain, No.2",Lucknow,624,139
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Delhi,978,221
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Mumbai,137,451
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Bengaluru,654,462
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Chennai,206,208
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Ahmedabad,801,127
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Pune,1033,388
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Jaipur,843,351
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Lucknow,586,487
+5,Creme Soft Soap - For Hands & Body,Delhi,537,305
+5,Creme Soft Soap - For Hands & Body,Mumbai,1402,176
+5,Creme Soft Soap - For Hands & Body,Bengaluru,664,480
+5,Creme Soft Soap - For Hands & Body,Chennai,1349,574
+5,Creme Soft Soap - For Hands & Body,Kolkata,1182,377
+5,Creme Soft Soap - For Hands & Body,Pune,224,564
+5,Creme Soft Soap - For Hands & Body,Jaipur,831,285
+5,Creme Soft Soap - For Hands & Body,Lucknow,845,210
+6,Germ - Removal Multipurpose Wipes,Mumbai,1145,90
+6,Germ - Removal Multipurpose Wipes,Bengaluru,1084,59
+6,Germ - Removal Multipurpose Wipes,Hyderabad,1193,59
+6,Germ - Removal Multipurpose Wipes,Ahmedabad,670,360
+6,Germ - Removal Multipurpose Wipes,Pune,1079,314
+6,Germ - Removal Multipurpose Wipes,Jaipur,463,301
+6,Germ - Removal Multipurpose Wipes,Lucknow,1257,630
+7,Multani Mati,Mumbai,955,134
+7,Multani Mati,Chennai,1365,221
+7,Multani Mati,Kolkata,1411,95
+7,Multani Mati,Pune,67,439
+7,Multani Mati,Jaipur,442,330
+7,Multani Mati,Lucknow,959,463
+8,Hand Sanitizer - 70% Alcohol Base,Delhi,1445,543
+8,Hand Sanitizer - 70% Alcohol Base,Mumbai,1009,241
+8,Hand Sanitizer - 70% Alcohol Base,Hyderabad,1137,259
+8,Hand Sanitizer - 70% Alcohol Base,Kolkata,494,128
+8,Hand Sanitizer - 70% Alcohol Base,Ahmedabad,1400,530
+8,Hand Sanitizer - 70% Alcohol Base,Pune,545,587
+8,Hand Sanitizer - 70% Alcohol Base,Jaipur,1170,525
+8,Hand Sanitizer - 70% Alcohol Base,Lucknow,48,396
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Delhi,499,126
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Bengaluru,1296,407
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Hyderabad,421,150
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Ahmedabad,1135,540
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Pune,1270,440
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Jaipur,1300,232
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Lucknow,900,545
+10,"Scrub Pad - Anti- Bacterial, Regular",Delhi,113,580
+10,"Scrub Pad - Anti- Bacterial, Regular",Kolkata,1133,370
+10,"Scrub Pad - Anti- Bacterial, Regular",Pune,1410,376
+10,"Scrub Pad - Anti- Bacterial, Regular",Lucknow,318,341
+11,Wheat Grass Powder - Raw,Delhi,857,80
+11,Wheat Grass Powder - Raw,Mumbai,226,188
+11,Wheat Grass Powder - Raw,Bengaluru,986,81
+11,Wheat Grass Powder - Raw,Hyderabad,972,568
+11,Wheat Grass Powder - Raw,Chennai,350,80
+11,Wheat Grass Powder - Raw,Kolkata,1208,359
+11,Wheat Grass Powder - Raw,Ahmedabad,994,41
+11,Wheat Grass Powder - Raw,Lucknow,202,435
+12,Butter Cookies Gold Collection,Delhi,862,76
+12,Butter Cookies Gold Collection,Hyderabad,286,351
+12,Butter Cookies Gold Collection,Kolkata,1233,153
+12,Butter Cookies Gold Collection,Ahmedabad,268,105
+12,Butter Cookies Gold Collection,Jaipur,339,264
+12,Butter Cookies Gold Collection,Lucknow,1220,350
+13,"Face Wash - Oil Control, Active",Delhi,863,322
+13,"Face Wash - Oil Control, Active",Bengaluru,896,583
+13,"Face Wash - Oil Control, Active",Hyderabad,1128,586
+13,"Face Wash - Oil Control, Active",Kolkata,800,523
+13,"Face Wash - Oil Control, Active",Ahmedabad,403,162
+13,"Face Wash - Oil Control, Active",Pune,898,257
+13,"Face Wash - Oil Control, Active",Lucknow,789,489
+14,Mold & Mildew Remover with Bleach,Mumbai,887,115
+14,Mold & Mildew Remover with Bleach,Bengaluru,747,293
+14,Mold & Mildew Remover with Bleach,Kolkata,1218,412
+14,Mold & Mildew Remover with Bleach,Ahmedabad,405,550
+14,Mold & Mildew Remover with Bleach,Pune,939,105
+14,Mold & Mildew Remover with Bleach,Jaipur,1163,321
+14,Mold & Mildew Remover with Bleach,Lucknow,738,428
+15,Just Spray - Mosquito Repellent Room Spray,Delhi,921,632
+15,Just Spray - Mosquito Repellent Room Spray,Mumbai,1428,247
+15,Just Spray - Mosquito Repellent Room Spray,Kolkata,51,489
+15,Just Spray - Mosquito Repellent Room Spray,Pune,1482,262
+15,Just Spray - Mosquito Repellent Room Spray,Jaipur,760,392
+16,Dove Plastic Soap Case - Assorted Colour,Delhi,971,499
+16,Dove Plastic Soap Case - Assorted Colour,Mumbai,412,40
+16,Dove Plastic Soap Case - Assorted Colour,Bengaluru,537,84
+16,Dove Plastic Soap Case - Assorted Colour,Hyderabad,958,574
+16,Dove Plastic Soap Case - Assorted Colour,Chennai,367,384
+16,Dove Plastic Soap Case - Assorted Colour,Kolkata,593,83
+16,Dove Plastic Soap Case - Assorted Colour,Ahmedabad,122,358
+16,Dove Plastic Soap Case - Assorted Colour,Jaipur,1204,340
+17,Smooth Skin Oil - For Dry Skin,Mumbai,468,629
+17,Smooth Skin Oil - For Dry Skin,Bengaluru,856,110
+17,Smooth Skin Oil - For Dry Skin,Hyderabad,1033,549
+17,Smooth Skin Oil - For Dry Skin,Chennai,799,444
+17,Smooth Skin Oil - For Dry Skin,Kolkata,1082,547
+17,Smooth Skin Oil - For Dry Skin,Ahmedabad,1451,470
+17,Smooth Skin Oil - For Dry Skin,Jaipur,520,311
+18,Salted Pumpkin,Delhi,1099,74
+18,Salted Pumpkin,Bengaluru,1104,180
+18,Salted Pumpkin,Kolkata,914,233
+18,Salted Pumpkin,Ahmedabad,765,384
+18,Salted Pumpkin,Pune,512,507
+18,Salted Pumpkin,Jaipur,640,582
+18,Salted Pumpkin,Lucknow,684,18
+19,Flax Seeds - Roasted,Delhi,220,195
+19,Flax Seeds - Roasted,Mumbai,275,135
+19,Flax Seeds - Roasted,Hyderabad,1007,80
+19,Flax Seeds - Roasted,Chennai,473,133
+19,Flax Seeds - Roasted,Kolkata,720,199
+19,Flax Seeds - Roasted,Pune,1171,622
+19,Flax Seeds - Roasted,Jaipur,825,274
+19,Flax Seeds - Roasted,Lucknow,459,88
+20,Organic Tofu - Soy Paneer,Delhi,1364,387
+20,Organic Tofu - Soy Paneer,Mumbai,1090,233
+20,Organic Tofu - Soy Paneer,Hyderabad,466,204
+20,Organic Tofu - Soy Paneer,Chennai,1332,617
+20,Organic Tofu - Soy Paneer,Kolkata,741,645
+20,Organic Tofu - Soy Paneer,Ahmedabad,571,407
+20,Organic Tofu - Soy Paneer,Pune,645,140
+20,Organic Tofu - Soy Paneer,Lucknow,1415,470
+21,Ceramic Barrel Brush - Colour May Vary,Delhi,1136,394
+21,Ceramic Barrel Brush - Colour May Vary,Mumbai,1268,177
+21,Ceramic Barrel Brush - Colour May Vary,Hyderabad,173,85
+21,Ceramic Barrel Brush - Colour May Vary,Chennai,1169,40
+21,Ceramic Barrel Brush - Colour May Vary,Kolkata,630,125
+21,Ceramic Barrel Brush - Colour May Vary,Ahmedabad,157,489
+21,Ceramic Barrel Brush - Colour May Vary,Jaipur,1481,417
+21,Ceramic Barrel Brush - Colour May Vary,Lucknow,1448,602
+22,Instant Noodles - Chicken Satay Flavor,Delhi,1337,359
+22,Instant Noodles - Chicken Satay Flavor,Hyderabad,1011,422
+22,Instant Noodles - Chicken Satay Flavor,Kolkata,891,436
+22,Instant Noodles - Chicken Satay Flavor,Jaipur,526,476
+23,Chia Seeds,Delhi,931,135
+23,Chia Seeds,Mumbai,556,335
+23,Chia Seeds,Ahmedabad,173,474
+23,Chia Seeds,Jaipur,574,648
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Mumbai,784,523
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Bengaluru,899,125
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Kolkata,1275,165
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Ahmedabad,887,263
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Pune,581,339
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Jaipur,509,418
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Lucknow,192,390
+25,Veggie Cutter,Mumbai,1193,645
+25,Veggie Cutter,Bengaluru,1111,51
+25,Veggie Cutter,Chennai,1167,135
+25,Veggie Cutter,Kolkata,1050,128
+25,Veggie Cutter,Ahmedabad,720,327
+25,Veggie Cutter,Jaipur,266,463
+25,Veggie Cutter,Lucknow,366,426
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,Delhi,247,370
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,Mumbai,376,508
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,Bengaluru,1096,144
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,Chennai,324,212
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,Kolkata,1035,309
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,Pune,1035,193
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,Lucknow,841,346
+27,Granola - Happy Berries,Mumbai,1009,535
+27,Granola - Happy Berries,Bengaluru,943,425
+27,Granola - Happy Berries,Kolkata,170,609
+27,Granola - Happy Berries,Ahmedabad,1450,127
+27,Granola - Happy Berries,Pune,1188,111
+28,Flaxseed - Pesticide Free,Delhi,964,10
+28,Flaxseed - Pesticide Free,Mumbai,821,438
+28,Flaxseed - Pesticide Free,Chennai,1416,549
+28,Flaxseed - Pesticide Free,Kolkata,1068,461
+28,Flaxseed - Pesticide Free,Jaipur,1247,339
+28,Flaxseed - Pesticide Free,Lucknow,756,636
+29,Paratha Puff,Delhi,99,444
+29,Paratha Puff,Mumbai,1074,341
+29,Paratha Puff,Hyderabad,509,310
+29,Paratha Puff,Chennai,982,334
+29,Paratha Puff,Kolkata,1250,553
+29,Paratha Puff,Ahmedabad,105,367
+29,Paratha Puff,Jaipur,389,10
+29,Paratha Puff,Lucknow,1197,297
+30,Lip Butter - Rose,Delhi,1205,532
+30,Lip Butter - Rose,Mumbai,176,147
+30,Lip Butter - Rose,Bengaluru,773,56
+30,Lip Butter - Rose,Hyderabad,231,78
+30,Lip Butter - Rose,Kolkata,91,539
+30,Lip Butter - Rose,Pune,1054,118
+30,Lip Butter - Rose,Jaipur,612,186
+30,Lip Butter - Rose,Lucknow,1126,308
+31,Fruit Power - Masala Sugarcane,Delhi,1356,84
+31,Fruit Power - Masala Sugarcane,Mumbai,304,42
+31,Fruit Power - Masala Sugarcane,Bengaluru,1007,107
+31,Fruit Power - Masala Sugarcane,Hyderabad,807,621
+31,Fruit Power - Masala Sugarcane,Chennai,991,49
+31,Fruit Power - Masala Sugarcane,Kolkata,573,185
+31,Fruit Power - Masala Sugarcane,Pune,719,395
+31,Fruit Power - Masala Sugarcane,Jaipur,602,558
+31,Fruit Power - Masala Sugarcane,Lucknow,61,145
+32,Chocobakes Choc Filled Cookies,Bengaluru,983,575
+32,Chocobakes Choc Filled Cookies,Hyderabad,1483,65
+32,Chocobakes Choc Filled Cookies,Chennai,980,350
+32,Chocobakes Choc Filled Cookies,Kolkata,1139,147
+32,Chocobakes Choc Filled Cookies,Ahmedabad,605,176
+32,Chocobakes Choc Filled Cookies,Jaipur,637,191
+32,Chocobakes Choc Filled Cookies,Lucknow,1429,194
+33,Amber - Deodorant Body Spray,Delhi,663,590
+33,Amber - Deodorant Body Spray,Mumbai,847,567
+33,Amber - Deodorant Body Spray,Hyderabad,1215,290
+33,Amber - Deodorant Body Spray,Chennai,887,270
+33,Amber - Deodorant Body Spray,Pune,1289,450
+33,Amber - Deodorant Body Spray,Jaipur,392,417
+33,Amber - Deodorant Body Spray,Lucknow,1420,370
+34,Green Tea - Tulsi Loose Leaf,Delhi,375,508
+34,Green Tea - Tulsi Loose Leaf,Kolkata,1368,555
+34,Green Tea - Tulsi Loose Leaf,Ahmedabad,1093,53
+34,Green Tea - Tulsi Loose Leaf,Pune,1288,448
+34,Green Tea - Tulsi Loose Leaf,Lucknow,836,147
+35,Pet Solitaire Container Set - Silver,Delhi,397,515
+35,Pet Solitaire Container Set - Silver,Mumbai,765,20
+35,Pet Solitaire Container Set - Silver,Hyderabad,734,493
+35,Pet Solitaire Container Set - Silver,Chennai,238,24
+35,Pet Solitaire Container Set - Silver,Kolkata,87,73
+35,Pet Solitaire Container Set - Silver,Ahmedabad,1237,297
+35,Pet Solitaire Container Set - Silver,Pune,627,204
+35,Pet Solitaire Container Set - Silver,Lucknow,209,351
+36,Dhania - Dal,Delhi,1031,445
+36,Dhania - Dal,Hyderabad,1170,586
+36,Dhania - Dal,Ahmedabad,1381,433
+36,Dhania - Dal,Jaipur,540,527
+37,Pudina Chutney Masala,Delhi,767,392
+37,Pudina Chutney Masala,Mumbai,592,136
+37,Pudina Chutney Masala,Bengaluru,686,183
+37,Pudina Chutney Masala,Chennai,696,502
+37,Pudina Chutney Masala,Kolkata,528,631
+37,Pudina Chutney Masala,Jaipur,1139,282
+37,Pudina Chutney Masala,Lucknow,743,266
+38,Bodylicious Deodorant Spray - Mate (For Men),Mumbai,1052,634
+38,Bodylicious Deodorant Spray - Mate (For Men),Bengaluru,687,252
+38,Bodylicious Deodorant Spray - Mate (For Men),Hyderabad,1282,133
+38,Bodylicious Deodorant Spray - Mate (For Men),Kolkata,958,380
+38,Bodylicious Deodorant Spray - Mate (For Men),Ahmedabad,996,320
+38,Bodylicious Deodorant Spray - Mate (For Men),Pune,1406,200
+38,Bodylicious Deodorant Spray - Mate (For Men),Jaipur,1275,81
+38,Bodylicious Deodorant Spray - Mate (For Men),Lucknow,906,205
+39,"Sport Deo Spray - Fresh, for Men",Delhi,263,633
+39,"Sport Deo Spray - Fresh, for Men",Mumbai,1483,455
+39,"Sport Deo Spray - Fresh, for Men",Hyderabad,1084,459
+39,"Sport Deo Spray - Fresh, for Men",Chennai,178,295
+39,"Sport Deo Spray - Fresh, for Men",Pune,1315,55
+39,"Sport Deo Spray - Fresh, for Men",Jaipur,385,36
+39,"Sport Deo Spray - Fresh, for Men",Lucknow,403,277
+40,Choco Deck - Mini Delights,Delhi,149,364
+40,Choco Deck - Mini Delights,Mumbai,1326,456
+40,Choco Deck - Mini Delights,Chennai,1421,346
+40,Choco Deck - Mini Delights,Kolkata,817,512
+40,Choco Deck - Mini Delights,Pune,738,322
+40,Choco Deck - Mini Delights,Jaipur,1368,373
+41,Eau De Toilette - Homme Green,Mumbai,1259,512
+41,Eau De Toilette - Homme Green,Hyderabad,972,260
+41,Eau De Toilette - Homme Green,Chennai,879,477
+41,Eau De Toilette - Homme Green,Kolkata,956,408
+41,Eau De Toilette - Homme Green,Ahmedabad,1406,386
+41,Eau De Toilette - Homme Green,Pune,1285,563
+41,Eau De Toilette - Homme Green,Jaipur,102,569
+41,Eau De Toilette - Homme Green,Lucknow,772,466
+42,Lemon & Tea Tree Oil Soap,Mumbai,754,576
+42,Lemon & Tea Tree Oil Soap,Bengaluru,795,273
+42,Lemon & Tea Tree Oil Soap,Hyderabad,1394,639
+42,Lemon & Tea Tree Oil Soap,Kolkata,1334,298
+42,Lemon & Tea Tree Oil Soap,Pune,167,484
+42,Lemon & Tea Tree Oil Soap,Lucknow,1179,275
+43,Flavoured Cream Wafer Roll - Strawberry,Mumbai,1295,284
+43,Flavoured Cream Wafer Roll - Strawberry,Hyderabad,298,86
+43,Flavoured Cream Wafer Roll - Strawberry,Ahmedabad,144,377
+43,Flavoured Cream Wafer Roll - Strawberry,Pune,263,86
+43,Flavoured Cream Wafer Roll - Strawberry,Lucknow,1017,583
+44,Storage/Lunch Steel Container with PP Lid - Red,Delhi,969,68
+44,Storage/Lunch Steel Container with PP Lid - Red,Mumbai,641,574
+44,Storage/Lunch Steel Container with PP Lid - Red,Bengaluru,705,370
+44,Storage/Lunch Steel Container with PP Lid - Red,Hyderabad,82,430
+44,Storage/Lunch Steel Container with PP Lid - Red,Chennai,845,280
+44,Storage/Lunch Steel Container with PP Lid - Red,Kolkata,163,202
+44,Storage/Lunch Steel Container with PP Lid - Red,Ahmedabad,1037,533
+44,Storage/Lunch Steel Container with PP Lid - Red,Pune,1353,338
+44,Storage/Lunch Steel Container with PP Lid - Red,Lucknow,1072,648
+45,Plain Green Olives,Bengaluru,313,487
+45,Plain Green Olives,Hyderabad,476,333
+45,Plain Green Olives,Chennai,1496,179
+45,Plain Green Olives,Jaipur,939,458
+45,Plain Green Olives,Lucknow,945,595
+46,Quinoa - Organic,Delhi,733,641
+46,Quinoa - Organic,Bengaluru,751,261
+46,Quinoa - Organic,Hyderabad,108,70
+46,Quinoa - Organic,Chennai,458,26
+46,Quinoa - Organic,Kolkata,1360,440
+46,Quinoa - Organic,Ahmedabad,997,620
+46,Quinoa - Organic,Jaipur,1155,40
+46,Quinoa - Organic,Lucknow,573,217
+47,After Shave Splash - Arctic Ice,Delhi,397,601
+47,After Shave Splash - Arctic Ice,Mumbai,968,147
+47,After Shave Splash - Arctic Ice,Bengaluru,428,330
+47,After Shave Splash - Arctic Ice,Hyderabad,500,114
+47,After Shave Splash - Arctic Ice,Chennai,225,270
+47,After Shave Splash - Arctic Ice,Kolkata,269,596
+47,After Shave Splash - Arctic Ice,Ahmedabad,1159,332
+47,After Shave Splash - Arctic Ice,Pune,1055,231
+47,After Shave Splash - Arctic Ice,Lucknow,259,36
+48,Colour Catcher Sheets,Mumbai,543,300
+48,Colour Catcher Sheets,Bengaluru,1308,140
+48,Colour Catcher Sheets,Hyderabad,636,298
+48,Colour Catcher Sheets,Chennai,87,579
+48,Colour Catcher Sheets,Pune,1383,630
+48,Colour Catcher Sheets,Lucknow,802,375
+49,Sauce - Sweet & Sour,Delhi,846,414
+49,Sauce - Sweet & Sour,Mumbai,688,259
+49,Sauce - Sweet & Sour,Bengaluru,1488,294
+49,Sauce - Sweet & Sour,Hyderabad,207,152
+49,Sauce - Sweet & Sour,Chennai,1337,253
+49,Sauce - Sweet & Sour,Pune,38,222
+49,Sauce - Sweet & Sour,Jaipur,986,146
+49,Sauce - Sweet & Sour,Lucknow,1333,121
+50,Super Hot and Sweet Mango Chutney,Delhi,1120,504
+50,Super Hot and Sweet Mango Chutney,Mumbai,1346,615
+50,Super Hot and Sweet Mango Chutney,Chennai,971,542
+50,Super Hot and Sweet Mango Chutney,Kolkata,800,399
+50,Super Hot and Sweet Mango Chutney,Ahmedabad,1447,66
+50,Super Hot and Sweet Mango Chutney,Jaipur,274,276
+50,Super Hot and Sweet Mango Chutney,Lucknow,881,445
+51,Pani Puri Mix Paste,Delhi,810,139
+51,Pani Puri Mix Paste,Chennai,1116,61
+51,Pani Puri Mix Paste,Kolkata,889,286
+52,Peach Syrup,Delhi,1376,595
+52,Peach Syrup,Mumbai,860,352
+52,Peach Syrup,Hyderabad,308,235
+52,Peach Syrup,Chennai,1029,368
+52,Peach Syrup,Kolkata,1198,621
+52,Peach Syrup,Jaipur,319,298
+52,Peach Syrup,Lucknow,1011,219
+53,Acne & Oil Control Face Wash,Delhi,720,369
+53,Acne & Oil Control Face Wash,Mumbai,680,254
+53,Acne & Oil Control Face Wash,Bengaluru,289,624
+53,Acne & Oil Control Face Wash,Chennai,1361,441
+53,Acne & Oil Control Face Wash,Kolkata,786,565
+53,Acne & Oil Control Face Wash,Ahmedabad,177,624
+53,Acne & Oil Control Face Wash,Jaipur,190,68
+54,Choco Deck - French Dessert Inspired Layered Bar,Delhi,510,541
+54,Choco Deck - French Dessert Inspired Layered Bar,Mumbai,376,375
+54,Choco Deck - French Dessert Inspired Layered Bar,Chennai,176,385
+54,Choco Deck - French Dessert Inspired Layered Bar,Ahmedabad,292,234
+54,Choco Deck - French Dessert Inspired Layered Bar,Pune,813,88
+54,Choco Deck - French Dessert Inspired Layered Bar,Jaipur,67,176
+54,Choco Deck - French Dessert Inspired Layered Bar,Lucknow,373,525
+55,Extra Fine Green Peas,Mumbai,1461,272
+55,Extra Fine Green Peas,Bengaluru,62,36
+55,Extra Fine Green Peas,Hyderabad,600,635
+55,Extra Fine Green Peas,Chennai,180,272
+55,Extra Fine Green Peas,Pune,652,293
+55,Extra Fine Green Peas,Jaipur,1126,454
+56,Soothing Cucumber Facial Scrub With Apricot Seeds,Delhi,1337,443
+56,Soothing Cucumber Facial Scrub With Apricot Seeds,Bengaluru,1275,487
+56,Soothing Cucumber Facial Scrub With Apricot Seeds,Kolkata,1400,79
+56,Soothing Cucumber Facial Scrub With Apricot Seeds,Ahmedabad,78,492
+57,Foochka,Bengaluru,406,325
+57,Foochka,Hyderabad,141,586
+57,Foochka,Kolkata,168,294
+57,Foochka,Ahmedabad,262,250
+57,Foochka,Jaipur,651,596
+57,Foochka,Lucknow,1232,218
+58,Argan-Liquid Gold Hair Spa,Delhi,349,525
+58,Argan-Liquid Gold Hair Spa,Bengaluru,1348,475
+58,Argan-Liquid Gold Hair Spa,Hyderabad,405,201
+58,Argan-Liquid Gold Hair Spa,Chennai,1321,483
+58,Argan-Liquid Gold Hair Spa,Kolkata,128,490
+58,Argan-Liquid Gold Hair Spa,Ahmedabad,137,92
+58,Argan-Liquid Gold Hair Spa,Jaipur,367,212
+58,Argan-Liquid Gold Hair Spa,Lucknow,1382,617
+59,"Baby Bed Protector - Sublimation Print, Pink",Mumbai,1173,97
+59,"Baby Bed Protector - Sublimation Print, Pink",Bengaluru,1422,300
+59,"Baby Bed Protector - Sublimation Print, Pink",Hyderabad,110,428
+59,"Baby Bed Protector - Sublimation Print, Pink",Chennai,782,87
+59,"Baby Bed Protector - Sublimation Print, Pink",Kolkata,553,154
+59,"Baby Bed Protector - Sublimation Print, Pink",Jaipur,576,86
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Delhi,1375,577
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Mumbai,681,553
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Bengaluru,1423,257
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Hyderabad,730,24
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Chennai,95,216
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Kolkata,297,244
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Ahmedabad,360,575
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Pune,922,281
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Jaipur,269,619
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Lucknow,1292,421
+61,"Atta Chalan - Stainless Steel, Size- No.8",Delhi,1066,624
+61,"Atta Chalan - Stainless Steel, Size- No.8",Mumbai,405,333
+61,"Atta Chalan - Stainless Steel, Size- No.8",Bengaluru,1170,247
+61,"Atta Chalan - Stainless Steel, Size- No.8",Hyderabad,1237,457
+61,"Atta Chalan - Stainless Steel, Size- No.8",Chennai,926,641
+61,"Atta Chalan - Stainless Steel, Size- No.8",Kolkata,849,245
+62,Dog Supplement - Absolute Skin + Coat Tablet,Delhi,1306,331
+62,Dog Supplement - Absolute Skin + Coat Tablet,Bengaluru,447,616
+62,Dog Supplement - Absolute Skin + Coat Tablet,Kolkata,210,426
+62,Dog Supplement - Absolute Skin + Coat Tablet,Lucknow,697,561
+63,"Peanut Butter - Creamy, Super",Delhi,1293,320
+63,"Peanut Butter - Creamy, Super",Mumbai,1479,414
+63,"Peanut Butter - Creamy, Super",Chennai,1323,112
+63,"Peanut Butter - Creamy, Super",Kolkata,819,424
+63,"Peanut Butter - Creamy, Super",Ahmedabad,387,638
+63,"Peanut Butter - Creamy, Super",Pune,1036,107
+63,"Peanut Butter - Creamy, Super",Lucknow,690,286
+64,Sugar Free Petit Beurre - The Taste of France,Bengaluru,539,599
+64,Sugar Free Petit Beurre - The Taste of France,Hyderabad,661,631
+64,Sugar Free Petit Beurre - The Taste of France,Chennai,798,141
+64,Sugar Free Petit Beurre - The Taste of France,Kolkata,398,287
+64,Sugar Free Petit Beurre - The Taste of France,Pune,629,63
+64,Sugar Free Petit Beurre - The Taste of France,Jaipur,1245,188
+64,Sugar Free Petit Beurre - The Taste of France,Lucknow,802,318
+65,Aqua Halo Rejuvenating Conditioner,Mumbai,243,534
+65,Aqua Halo Rejuvenating Conditioner,Bengaluru,41,169
+65,Aqua Halo Rejuvenating Conditioner,Hyderabad,367,431
+65,Aqua Halo Rejuvenating Conditioner,Chennai,915,334
+65,Aqua Halo Rejuvenating Conditioner,Kolkata,193,634
+65,Aqua Halo Rejuvenating Conditioner,Pune,1395,129
+65,Aqua Halo Rejuvenating Conditioner,Jaipur,1149,126
+65,Aqua Halo Rejuvenating Conditioner,Lucknow,977,373
+66,Ayurvedic Anti-Tan Face Pack,Delhi,347,99
+66,Ayurvedic Anti-Tan Face Pack,Mumbai,1009,120
+66,Ayurvedic Anti-Tan Face Pack,Bengaluru,1393,430
+66,Ayurvedic Anti-Tan Face Pack,Hyderabad,1205,548
+66,Ayurvedic Anti-Tan Face Pack,Chennai,210,366
+66,Ayurvedic Anti-Tan Face Pack,Pune,1481,228
+66,Ayurvedic Anti-Tan Face Pack,Jaipur,387,121
+66,Ayurvedic Anti-Tan Face Pack,Lucknow,947,376
+67,Dog Supplement - Absolute Calcium Tablet,Mumbai,675,505
+67,Dog Supplement - Absolute Calcium Tablet,Hyderabad,913,636
+67,Dog Supplement - Absolute Calcium Tablet,Ahmedabad,363,27
+67,Dog Supplement - Absolute Calcium Tablet,Pune,952,69
+67,Dog Supplement - Absolute Calcium Tablet,Jaipur,1084,561
+67,Dog Supplement - Absolute Calcium Tablet,Lucknow,1271,534
+68,Battery Power Kids Toothbrush - Barbie,Delhi,420,510
+68,Battery Power Kids Toothbrush - Barbie,Mumbai,1468,553
+68,Battery Power Kids Toothbrush - Barbie,Bengaluru,1492,233
+68,Battery Power Kids Toothbrush - Barbie,Hyderabad,24,366
+68,Battery Power Kids Toothbrush - Barbie,Chennai,40,640
+68,Battery Power Kids Toothbrush - Barbie,Kolkata,1489,17
+68,Battery Power Kids Toothbrush - Barbie,Ahmedabad,1463,14
+68,Battery Power Kids Toothbrush - Barbie,Pune,120,511
+68,Battery Power Kids Toothbrush - Barbie,Jaipur,1135,434
+68,Battery Power Kids Toothbrush - Barbie,Lucknow,252,176
+69,Organic Carom Seeds/Ajwain/Om Kalu,Mumbai,735,332
+69,Organic Carom Seeds/Ajwain/Om Kalu,Bengaluru,692,618
+69,Organic Carom Seeds/Ajwain/Om Kalu,Chennai,1152,267
+69,Organic Carom Seeds/Ajwain/Om Kalu,Kolkata,1175,552
+69,Organic Carom Seeds/Ajwain/Om Kalu,Ahmedabad,450,445
+69,Organic Carom Seeds/Ajwain/Om Kalu,Pune,1007,31
+69,Organic Carom Seeds/Ajwain/Om Kalu,Jaipur,61,442
+69,Organic Carom Seeds/Ajwain/Om Kalu,Lucknow,646,382
+70,"Padded Harness - 3/4 inch, Grey Colour",Mumbai,959,567
+70,"Padded Harness - 3/4 inch, Grey Colour",Bengaluru,1483,268
+70,"Padded Harness - 3/4 inch, Grey Colour",Chennai,1174,223
+70,"Padded Harness - 3/4 inch, Grey Colour",Kolkata,727,241
+70,"Padded Harness - 3/4 inch, Grey Colour",Ahmedabad,159,482
+70,"Padded Harness - 3/4 inch, Grey Colour",Pune,189,303
+70,"Padded Harness - 3/4 inch, Grey Colour",Jaipur,116,61
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Delhi,839,633
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Mumbai,493,182
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Bengaluru,448,584
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Hyderabad,1471,240
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Chennai,1023,537
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Kolkata,303,145
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Ahmedabad,886,95
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Pune,208,35
+72,Pure & Gentle Face Wash,Mumbai,404,508
+72,Pure & Gentle Face Wash,Bengaluru,390,215
+72,Pure & Gentle Face Wash,Hyderabad,1208,106
+72,Pure & Gentle Face Wash,Chennai,754,259
+72,Pure & Gentle Face Wash,Ahmedabad,833,611
+72,Pure & Gentle Face Wash,Jaipur,493,17
+72,Pure & Gentle Face Wash,Lucknow,57,215
+73,Sesame Seed Oil,Mumbai,22,449
+73,Sesame Seed Oil,Bengaluru,572,11
+73,Sesame Seed Oil,Hyderabad,1166,246
+73,Sesame Seed Oil,Chennai,123,393
+73,Sesame Seed Oil,Ahmedabad,328,257
+73,Sesame Seed Oil,Lucknow,1342,375
+74,Til Dil Seeds,Delhi,665,351
+74,Til Dil Seeds,Mumbai,1327,264
+74,Til Dil Seeds,Bengaluru,137,125
+74,Til Dil Seeds,Ahmedabad,434,521
+74,Til Dil Seeds,Pune,602,572
+74,Til Dil Seeds,Jaipur,600,136
+74,Til Dil Seeds,Lucknow,465,254
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Delhi,1392,292
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Mumbai,724,122
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Bengaluru,665,132
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Hyderabad,1234,172
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Ahmedabad,949,139
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Pune,1004,226
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Jaipur,869,461
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth",Lucknow,470,256
+76,Acne Pimple Kit For Acne & Pimple Removal,Delhi,529,434
+76,Acne Pimple Kit For Acne & Pimple Removal,Bengaluru,1347,299
+76,Acne Pimple Kit For Acne & Pimple Removal,Chennai,648,319
+76,Acne Pimple Kit For Acne & Pimple Removal,Kolkata,1161,65
+76,Acne Pimple Kit For Acne & Pimple Removal,Ahmedabad,538,623
+76,Acne Pimple Kit For Acne & Pimple Removal,Pune,940,162
+76,Acne Pimple Kit For Acne & Pimple Removal,Jaipur,1034,362
+76,Acne Pimple Kit For Acne & Pimple Removal,Lucknow,1362,273
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch",Delhi,230,219
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch",Mumbai,1123,606
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch",Hyderabad,411,508
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch",Chennai,172,153
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch",Kolkata,1230,98
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch",Ahmedabad,679,538
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch",Lucknow,201,311
+78,& Moms Bathing Soap - Jasmine,Bengaluru,1331,479
+78,& Moms Bathing Soap - Jasmine,Chennai,1370,143
+78,& Moms Bathing Soap - Jasmine,Ahmedabad,1280,13
+78,& Moms Bathing Soap - Jasmine,Pune,1275,335
+78,& Moms Bathing Soap - Jasmine,Jaipur,82,134
+78,& Moms Bathing Soap - Jasmine,Lucknow,1236,512
+79,Amla Chatpata Dry Fruit,Delhi,1191,281
+79,Amla Chatpata Dry Fruit,Mumbai,357,541
+79,Amla Chatpata Dry Fruit,Bengaluru,727,527
+79,Amla Chatpata Dry Fruit,Hyderabad,980,451
+79,Amla Chatpata Dry Fruit,Chennai,171,254
+79,Amla Chatpata Dry Fruit,Kolkata,1274,584
+79,Amla Chatpata Dry Fruit,Pune,116,30
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Delhi,1464,558
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Mumbai,160,286
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Bengaluru,598,237
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Chennai,876,504
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Kolkata,912,491
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Ahmedabad,687,397
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Pune,1023,251
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Jaipur,223,70
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Lucknow,314,397
+81,Chips - Topica,Delhi,947,544
+81,Chips - Topica,Bengaluru,807,315
+81,Chips - Topica,Hyderabad,1232,302
+81,Chips - Topica,Kolkata,388,377
+81,Chips - Topica,Ahmedabad,363,359
+81,Chips - Topica,Lucknow,334,185
+82,Cup a Soup - Croutons Cream of Asparagus,Delhi,411,55
+82,Cup a Soup - Croutons Cream of Asparagus,Mumbai,477,338
+82,Cup a Soup - Croutons Cream of Asparagus,Hyderabad,527,610
+82,Cup a Soup - Croutons Cream of Asparagus,Chennai,675,430
+82,Cup a Soup - Croutons Cream of Asparagus,Kolkata,1351,326
+82,Cup a Soup - Croutons Cream of Asparagus,Jaipur,1269,601
+82,Cup a Soup - Croutons Cream of Asparagus,Lucknow,358,582
+83,Organic Dal - Masoor,Delhi,796,445
+83,Organic Dal - Masoor,Mumbai,629,549
+83,Organic Dal - Masoor,Bengaluru,387,155
+83,Organic Dal - Masoor,Hyderabad,297,337
+83,Organic Dal - Masoor,Chennai,1307,87
+83,Organic Dal - Masoor,Pune,1405,371
+83,Organic Dal - Masoor,Jaipur,677,274
+83,Organic Dal - Masoor,Lucknow,883,358
+84,Strawberry Ice Cream,Mumbai,986,193
+84,Strawberry Ice Cream,Bengaluru,541,235
+84,Strawberry Ice Cream,Hyderabad,581,348
+84,Strawberry Ice Cream,Chennai,1091,211
+84,Strawberry Ice Cream,Kolkata,157,418
+84,Strawberry Ice Cream,Ahmedabad,206,354
+84,Strawberry Ice Cream,Jaipur,848,348
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Delhi,1244,378
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Mumbai,331,442
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Bengaluru,1059,483
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Chennai,1047,530
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Kolkata,345,509
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Ahmedabad,215,229
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Pune,266,177
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Jaipur,907,224
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Lucknow,1454,144
+86,Jupiter Water/Juice Glass Tumbler,Delhi,1410,481
+86,Jupiter Water/Juice Glass Tumbler,Mumbai,600,309
+86,Jupiter Water/Juice Glass Tumbler,Bengaluru,947,565
+86,Jupiter Water/Juice Glass Tumbler,Hyderabad,703,259
+86,Jupiter Water/Juice Glass Tumbler,Chennai,1186,67
+86,Jupiter Water/Juice Glass Tumbler,Kolkata,685,106
+86,Jupiter Water/Juice Glass Tumbler,Ahmedabad,782,278
+86,Jupiter Water/Juice Glass Tumbler,Pune,347,218
+86,Jupiter Water/Juice Glass Tumbler,Jaipur,604,103
+86,Jupiter Water/Juice Glass Tumbler,Lucknow,544,27
+87,"Cheese - Feta Greek, Block",Delhi,913,416
+87,"Cheese - Feta Greek, Block",Mumbai,458,161
+87,"Cheese - Feta Greek, Block",Bengaluru,601,305
+87,"Cheese - Feta Greek, Block",Hyderabad,768,472
+87,"Cheese - Feta Greek, Block",Chennai,1287,85
+87,"Cheese - Feta Greek, Block",Ahmedabad,1368,522
+87,"Cheese - Feta Greek, Block",Pune,616,67
+87,"Cheese - Feta Greek, Block",Jaipur,918,582
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Delhi,1263,196
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Mumbai,346,345
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Bengaluru,107,396
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Hyderabad,935,582
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Chennai,1229,543
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Ahmedabad,1183,168
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Jaipur,355,296
+89,Bathing Soap - Sandal & Turmeric,Bengaluru,1079,241
+89,Bathing Soap - Sandal & Turmeric,Hyderabad,336,438
+89,Bathing Soap - Sandal & Turmeric,Kolkata,1127,293
+89,Bathing Soap - Sandal & Turmeric,Ahmedabad,863,398
+89,Bathing Soap - Sandal & Turmeric,Pune,729,440
+89,Bathing Soap - Sandal & Turmeric,Jaipur,928,398
+90,Sweet Corn Kernels - Chipotle,Delhi,812,61
+90,Sweet Corn Kernels - Chipotle,Mumbai,943,384
+90,Sweet Corn Kernels - Chipotle,Bengaluru,797,467
+90,Sweet Corn Kernels - Chipotle,Hyderabad,568,441
+90,Sweet Corn Kernels - Chipotle,Chennai,724,321
+90,Sweet Corn Kernels - Chipotle,Kolkata,863,297
+90,Sweet Corn Kernels - Chipotle,Ahmedabad,33,390
+90,Sweet Corn Kernels - Chipotle,Pune,1042,92
+90,Sweet Corn Kernels - Chipotle,Jaipur,722,27
+91,Ashwagandha Tablets,Delhi,1478,129
+91,Ashwagandha Tablets,Mumbai,287,488
+91,Ashwagandha Tablets,Chennai,47,334
+91,Ashwagandha Tablets,Kolkata,641,172
+91,Ashwagandha Tablets,Ahmedabad,436,570
+91,Ashwagandha Tablets,Jaipur,127,300
+91,Ashwagandha Tablets,Lucknow,135,547
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,Delhi,844,528
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,Bengaluru,534,333
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,Chennai,775,71
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,Kolkata,547,620
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,Jaipur,1004,124
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,Lucknow,1110,598
+93,Topp Up Milk - Elaichi,Delhi,683,381
+93,Topp Up Milk - Elaichi,Mumbai,703,561
+93,Topp Up Milk - Elaichi,Bengaluru,1082,418
+93,Topp Up Milk - Elaichi,Kolkata,758,480
+93,Topp Up Milk - Elaichi,Ahmedabad,787,137
+93,Topp Up Milk - Elaichi,Pune,949,580
+93,Topp Up Milk - Elaichi,Jaipur,56,646
+94,Namkeen - Madras Mixture,Delhi,579,299
+94,Namkeen - Madras Mixture,Bengaluru,1494,22
+94,Namkeen - Madras Mixture,Hyderabad,808,139
+94,Namkeen - Madras Mixture,Kolkata,490,299
+94,Namkeen - Madras Mixture,Ahmedabad,1458,87
+94,Namkeen - Madras Mixture,Pune,511,313
+94,Namkeen - Madras Mixture,Lucknow,594,86
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack",Delhi,673,486
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack",Hyderabad,883,72
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack",Chennai,529,253
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack",Kolkata,249,577
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack",Ahmedabad,1241,302
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack",Pune,1051,395
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack",Jaipur,1262,67
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Delhi,965,624
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Mumbai,751,451
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Hyderabad,1442,567
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Kolkata,1040,169
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Ahmedabad,483,592
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Jaipur,394,301
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Lucknow,378,519
+97,Hair Remover Spray - Foam Lemon,Delhi,729,198
+97,Hair Remover Spray - Foam Lemon,Bengaluru,1292,398
+97,Hair Remover Spray - Foam Lemon,Hyderabad,194,95
+97,Hair Remover Spray - Foam Lemon,Chennai,558,368
+97,Hair Remover Spray - Foam Lemon,Kolkata,1035,331
+97,Hair Remover Spray - Foam Lemon,Pune,1058,392
+97,Hair Remover Spray - Foam Lemon,Jaipur,416,356
+97,Hair Remover Spray - Foam Lemon,Lucknow,263,39
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Delhi,1394,35
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Bengaluru,150,21
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Hyderabad,1127,104
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Chennai,364,179
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Ahmedabad,206,35
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Pune,1214,561
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Jaipur,162,641
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Lucknow,1498,47
+99,Frankincense Oil,Mumbai,262,573
+99,Frankincense Oil,Chennai,576,456
+99,Frankincense Oil,Kolkata,171,348
+99,Frankincense Oil,Pune,623,28
+99,Frankincense Oil,Lucknow,372,43
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Delhi,853,524
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Mumbai,23,564
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Bengaluru,320,86
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Chennai,293,477
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Kolkata,908,312
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Ahmedabad,901,440
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Pune,1313,249
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Jaipur,722,337
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Lucknow,382,316
+101,Samrakshana Vaastu Deepa Thailam,Delhi,253,89
+101,Samrakshana Vaastu Deepa Thailam,Mumbai,1496,34
+101,Samrakshana Vaastu Deepa Thailam,Bengaluru,650,94
+101,Samrakshana Vaastu Deepa Thailam,Hyderabad,1096,452
+101,Samrakshana Vaastu Deepa Thailam,Chennai,678,11
+101,Samrakshana Vaastu Deepa Thailam,Ahmedabad,1150,185
+101,Samrakshana Vaastu Deepa Thailam,Pune,1041,480
+101,Samrakshana Vaastu Deepa Thailam,Jaipur,295,377
+102,Quinoa - Organic Black,Delhi,1008,147
+102,Quinoa - Organic Black,Bengaluru,972,593
+102,Quinoa - Organic Black,Chennai,1014,249
+102,Quinoa - Organic Black,Kolkata,344,156
+102,Quinoa - Organic Black,Ahmedabad,1124,260
+102,Quinoa - Organic Black,Pune,778,51
+103,Fructis Serum - Long & Strong,Delhi,235,45
+103,Fructis Serum - Long & Strong,Mumbai,596,250
+103,Fructis Serum - Long & Strong,Bengaluru,59,205
+103,Fructis Serum - Long & Strong,Hyderabad,1073,185
+103,Fructis Serum - Long & Strong,Chennai,104,186
+103,Fructis Serum - Long & Strong,Pune,233,450
+103,Fructis Serum - Long & Strong,Lucknow,1162,140
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Delhi,910,261
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Mumbai,1004,625
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Bengaluru,578,266
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Hyderabad,744,206
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Kolkata,571,606
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Pune,957,287
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Jaipur,262,313
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Lucknow,91,384
+105,Veda Marie Light Biscuits,Delhi,1303,316
+105,Veda Marie Light Biscuits,Bengaluru,188,495
+105,Veda Marie Light Biscuits,Kolkata,119,597
+105,Veda Marie Light Biscuits,Ahmedabad,669,42
+105,Veda Marie Light Biscuits,Pune,1381,117
+105,Veda Marie Light Biscuits,Lucknow,93,474
+106,"2 Fold Umbrella - Auto-Open & Manual Close, Dark Violet",Delhi,870,429
+106,"2 Fold Umbrella - Auto-Open & Manual Close, Dark Violet",Mumbai,936,501
+106,"2 Fold Umbrella - Auto-Open & Manual Close, Dark Violet",Bengaluru,654,642
+106,"2 Fold Umbrella - Auto-Open & Manual Close, Dark Violet",Kolkata,693,385
+106,"2 Fold Umbrella - Auto-Open & Manual Close, Dark Violet",Lucknow,176,485
+107,Aamras Mango Fruit Juice,Delhi,627,360
+107,Aamras Mango Fruit Juice,Mumbai,910,207
+107,Aamras Mango Fruit Juice,Bengaluru,101,572
+107,Aamras Mango Fruit Juice,Hyderabad,902,419
+107,Aamras Mango Fruit Juice,Chennai,1336,219
+107,Aamras Mango Fruit Juice,Kolkata,306,381
+107,Aamras Mango Fruit Juice,Jaipur,480,358
+107,Aamras Mango Fruit Juice,Lucknow,565,169
+108,Henna & Ginseng Anti Hair Loss Shampoo,Bengaluru,1004,297
+108,Henna & Ginseng Anti Hair Loss Shampoo,Hyderabad,1064,240
+108,Henna & Ginseng Anti Hair Loss Shampoo,Chennai,1432,172
+108,Henna & Ginseng Anti Hair Loss Shampoo,Kolkata,232,96
+109,"Sandwich Toaster - Non-Stick, Gas",Delhi,1286,387
+109,"Sandwich Toaster - Non-Stick, Gas",Mumbai,986,48
+109,"Sandwich Toaster - Non-Stick, Gas",Bengaluru,593,275
+109,"Sandwich Toaster - Non-Stick, Gas",Hyderabad,1425,618
+109,"Sandwich Toaster - Non-Stick, Gas",Chennai,451,309
+109,"Sandwich Toaster - Non-Stick, Gas",Kolkata,77,480
+109,"Sandwich Toaster - Non-Stick, Gas",Ahmedabad,298,535
+109,"Sandwich Toaster - Non-Stick, Gas",Pune,1303,538
+109,"Sandwich Toaster - Non-Stick, Gas",Jaipur,371,301
+109,"Sandwich Toaster - Non-Stick, Gas",Lucknow,235,469
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Delhi,477,624
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Mumbai,1482,379
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Hyderabad,1416,207
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Chennai,1332,346
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Ahmedabad,723,622
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Jaipur,353,435
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Lucknow,325,478
+111,Incense Sticks - Sandal,Delhi,833,359
+111,Incense Sticks - Sandal,Bengaluru,275,417
+111,Incense Sticks - Sandal,Hyderabad,1218,573
+111,Incense Sticks - Sandal,Chennai,1332,422
+111,Incense Sticks - Sandal,Kolkata,681,296
+111,Incense Sticks - Sandal,Pune,248,528
+112,SPF 15 Sunscreen Lotion,Delhi,82,611
+112,SPF 15 Sunscreen Lotion,Mumbai,782,521
+112,SPF 15 Sunscreen Lotion,Bengaluru,1265,139
+112,SPF 15 Sunscreen Lotion,Hyderabad,222,398
+112,SPF 15 Sunscreen Lotion,Chennai,80,276
+112,SPF 15 Sunscreen Lotion,Pune,356,96
+112,SPF 15 Sunscreen Lotion,Lucknow,952,624
+113,Fenugreek,Mumbai,176,91
+113,Fenugreek,Bengaluru,1060,516
+113,Fenugreek,Hyderabad,729,622
+113,Fenugreek,Chennai,1233,496
+113,Fenugreek,Ahmedabad,709,82
+113,Fenugreek,Pune,604,315
+113,Fenugreek,Lucknow,825,178
+114,Caramel Popcorn - Himalayan Salt,Bengaluru,86,401
+114,Caramel Popcorn - Himalayan Salt,Hyderabad,505,635
+114,Caramel Popcorn - Himalayan Salt,Chennai,1325,187
+114,Caramel Popcorn - Himalayan Salt,Kolkata,81,647
+114,Caramel Popcorn - Himalayan Salt,Ahmedabad,1441,481
+114,Caramel Popcorn - Himalayan Salt,Pune,587,198
+114,Caramel Popcorn - Himalayan Salt,Jaipur,247,613
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Delhi,1222,23
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Bengaluru,730,173
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Chennai,1242,128
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Kolkata,1473,293
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Ahmedabad,723,315
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Pune,1500,616
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Jaipur,1154,470
+116,Sapota - Organically Grown,Delhi,197,192
+116,Sapota - Organically Grown,Mumbai,672,513
+116,Sapota - Organically Grown,Bengaluru,1247,412
+116,Sapota - Organically Grown,Hyderabad,48,531
+116,Sapota - Organically Grown,Chennai,1246,430
+116,Sapota - Organically Grown,Ahmedabad,271,318
+116,Sapota - Organically Grown,Pune,954,66
+116,Sapota - Organically Grown,Jaipur,447,248
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Mumbai,654,16
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Bengaluru,362,157
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Hyderabad,1410,537
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Chennai,420,96
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Kolkata,1475,129
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Ahmedabad,1064,563
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Pune,1314,267
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Jaipur,262,450
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Lucknow,781,366
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney",Bengaluru,53,93
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney",Chennai,1075,59
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney",Kolkata,622,230
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney",Ahmedabad,1036,337
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney",Pune,339,542
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney",Jaipur,1390,290
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney",Lucknow,295,413
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish",Delhi,97,453
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish",Mumbai,752,31
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish",Bengaluru,744,116
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish",Chennai,1093,193
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish",Kolkata,798,107
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish",Jaipur,888,252
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish",Lucknow,1140,432
+120,Millet Rusk - Sweet,Kolkata,1310,158
+120,Millet Rusk - Sweet,Pune,376,215
+120,Millet Rusk - Sweet,Lucknow,1236,434
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Delhi,1333,545
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Mumbai,1282,267
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Bengaluru,741,497
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Hyderabad,719,444
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Chennai,571,50
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Kolkata,415,588
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Ahmedabad,474,163
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Pune,1500,516
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm",Jaipur,35,414
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Delhi,387,485
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Mumbai,316,81
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Bengaluru,1460,341
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Hyderabad,725,55
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Chennai,1294,216
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Ahmedabad,1168,639
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Pune,1089,269
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Lucknow,765,361
+123,Cabbage - Red,Delhi,776,301
+123,Cabbage - Red,Mumbai,283,444
+123,Cabbage - Red,Bengaluru,802,278
+123,Cabbage - Red,Hyderabad,966,199
+123,Cabbage - Red,Chennai,887,135
+123,Cabbage - Red,Kolkata,1389,329
+123,Cabbage - Red,Pune,1089,239
+123,Cabbage - Red,Lucknow,560,296
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Delhi,524,503
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Mumbai,216,136
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Bengaluru,1062,399
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Hyderabad,275,468
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Chennai,387,419
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Kolkata,1132,486
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Ahmedabad,654,541
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,Pune,673,389
+125,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),Mumbai,1200,581
+125,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),Chennai,243,575
+125,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),Kolkata,1439,475
+125,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),Ahmedabad,33,265
+125,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),Jaipur,787,197
+126,Premium Square Plastic Container - Green,Delhi,931,12
+126,Premium Square Plastic Container - Green,Mumbai,63,516
+126,Premium Square Plastic Container - Green,Bengaluru,266,441
+126,Premium Square Plastic Container - Green,Hyderabad,602,230
+126,Premium Square Plastic Container - Green,Chennai,252,455
+126,Premium Square Plastic Container - Green,Kolkata,624,198
+126,Premium Square Plastic Container - Green,Ahmedabad,623,313
+126,Premium Square Plastic Container - Green,Pune,68,192
+126,Premium Square Plastic Container - Green,Jaipur,417,398
+126,Premium Square Plastic Container - Green,Lucknow,368,283
+127,Instant Popcorn - Butter Delite,Mumbai,1222,465
+127,Instant Popcorn - Butter Delite,Bengaluru,653,208
+127,Instant Popcorn - Butter Delite,Kolkata,250,554
+127,Instant Popcorn - Butter Delite,Ahmedabad,1108,201
+127,Instant Popcorn - Butter Delite,Pune,1429,574
+127,Instant Popcorn - Butter Delite,Jaipur,315,283
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Delhi,415,598
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Mumbai,677,454
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Bengaluru,165,167
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Chennai,986,58
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Kolkata,377,505
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Ahmedabad,1213,510
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Pune,1300,625
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Lucknow,1411,273
+129,Nutrition Plus Health Supplement - Joint Support,Delhi,756,168
+129,Nutrition Plus Health Supplement - Joint Support,Mumbai,437,123
+129,Nutrition Plus Health Supplement - Joint Support,Bengaluru,133,278
+129,Nutrition Plus Health Supplement - Joint Support,Hyderabad,783,632
+129,Nutrition Plus Health Supplement - Joint Support,Chennai,864,159
+129,Nutrition Plus Health Supplement - Joint Support,Pune,1267,136
+129,Nutrition Plus Health Supplement - Joint Support,Lucknow,531,149
+130,Glass Belleza Bowl - Wine,Delhi,888,333
+130,Glass Belleza Bowl - Wine,Mumbai,1274,642
+130,Glass Belleza Bowl - Wine,Bengaluru,1449,571
+130,Glass Belleza Bowl - Wine,Kolkata,401,486
+130,Glass Belleza Bowl - Wine,Ahmedabad,207,576
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Delhi,1016,191
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Hyderabad,1130,513
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Chennai,1368,266
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Kolkata,318,414
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Ahmedabad,918,328
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Pune,1255,18
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Lucknow,293,642
+132,Banana - Red,Mumbai,911,123
+132,Banana - Red,Hyderabad,1461,447
+132,Banana - Red,Chennai,923,552
+132,Banana - Red,Kolkata,1280,421
+132,Banana - Red,Ahmedabad,823,378
+132,Banana - Red,Pune,1135,630
+132,Banana - Red,Jaipur,874,546
+132,Banana - Red,Lucknow,173,78
+133,"Chilli - Bajji, Mild",Delhi,263,491
+133,"Chilli - Bajji, Mild",Mumbai,1164,455
+133,"Chilli - Bajji, Mild",Bengaluru,128,36
+133,"Chilli - Bajji, Mild",Hyderabad,29,521
+133,"Chilli - Bajji, Mild",Chennai,419,381
+133,"Chilli - Bajji, Mild",Ahmedabad,763,379
+133,"Chilli - Bajji, Mild",Pune,1089,211
+133,"Chilli - Bajji, Mild",Jaipur,1485,585
+133,"Chilli - Bajji, Mild",Lucknow,617,414
+134,I Love You Fruit N Nut Chocolate,Delhi,1115,634
+134,I Love You Fruit N Nut Chocolate,Mumbai,1148,114
+134,I Love You Fruit N Nut Chocolate,Bengaluru,468,424
+134,I Love You Fruit N Nut Chocolate,Hyderabad,765,188
+134,I Love You Fruit N Nut Chocolate,Chennai,233,597
+134,I Love You Fruit N Nut Chocolate,Pune,703,108
+134,I Love You Fruit N Nut Chocolate,Jaipur,1244,147
+134,I Love You Fruit N Nut Chocolate,Lucknow,864,102
+135,Pitted Green Olives,Delhi,552,85
+135,Pitted Green Olives,Mumbai,32,607
+135,Pitted Green Olives,Hyderabad,722,379
+135,Pitted Green Olives,Chennai,1232,579
+135,Pitted Green Olives,Kolkata,360,128
+135,Pitted Green Olives,Pune,1144,564
+135,Pitted Green Olives,Jaipur,671,604
+135,Pitted Green Olives,Lucknow,1179,71
+136,Glass Mixing Bowl With Lid - Polo,Delhi,546,575
+136,Glass Mixing Bowl With Lid - Polo,Mumbai,410,244
+136,Glass Mixing Bowl With Lid - Polo,Hyderabad,1228,29
+136,Glass Mixing Bowl With Lid - Polo,Chennai,1052,312
+136,Glass Mixing Bowl With Lid - Polo,Kolkata,961,63
+136,Glass Mixing Bowl With Lid - Polo,Ahmedabad,1352,222
+136,Glass Mixing Bowl With Lid - Polo,Pune,1297,514
+136,Glass Mixing Bowl With Lid - Polo,Lucknow,984,420
+137,Cake Gel,Delhi,599,142
+137,Cake Gel,Mumbai,287,104
+137,Cake Gel,Hyderabad,738,327
+137,Cake Gel,Jaipur,365,40
+138,Toffees - Excellence Assorted,Delhi,264,494
+138,Toffees - Excellence Assorted,Mumbai,157,646
+138,Toffees - Excellence Assorted,Bengaluru,149,57
+138,Toffees - Excellence Assorted,Chennai,541,435
+138,Toffees - Excellence Assorted,Kolkata,174,323
+138,Toffees - Excellence Assorted,Ahmedabad,1386,124
+138,Toffees - Excellence Assorted,Pune,1212,95
+138,Toffees - Excellence Assorted,Jaipur,937,24
+139,Organic Idly Podi - Ginger,Mumbai,263,591
+139,Organic Idly Podi - Ginger,Bengaluru,584,416
+139,Organic Idly Podi - Ginger,Hyderabad,831,163
+139,Organic Idly Podi - Ginger,Chennai,222,316
+139,Organic Idly Podi - Ginger,Kolkata,928,102
+139,Organic Idly Podi - Ginger,Ahmedabad,1316,214
+139,Organic Idly Podi - Ginger,Jaipur,1071,581
+139,Organic Idly Podi - Ginger,Lucknow,273,421
+140,Glass Water Bottle - Aquaria Organic Purple,Delhi,98,403
+140,Glass Water Bottle - Aquaria Organic Purple,Mumbai,69,77
+140,Glass Water Bottle - Aquaria Organic Purple,Chennai,390,47
+140,Glass Water Bottle - Aquaria Organic Purple,Kolkata,662,404
+140,Glass Water Bottle - Aquaria Organic Purple,Ahmedabad,345,408
+140,Glass Water Bottle - Aquaria Organic Purple,Pune,40,340
+140,Glass Water Bottle - Aquaria Organic Purple,Jaipur,767,47
+140,Glass Water Bottle - Aquaria Organic Purple,Lucknow,968,623
+141,Stainless Steel Pav Bhaji/Idli Oval Shaped Plate,Delhi,309,161
+141,Stainless Steel Pav Bhaji/Idli Oval Shaped Plate,Mumbai,1201,183
+141,Stainless Steel Pav Bhaji/Idli Oval Shaped Plate,Bengaluru,1492,409
+141,Stainless Steel Pav Bhaji/Idli Oval Shaped Plate,Hyderabad,1201,474
+141,Stainless Steel Pav Bhaji/Idli Oval Shaped Plate,Ahmedabad,1435,12
+141,Stainless Steel Pav Bhaji/Idli Oval Shaped Plate,Pune,467,97
+142,Organic Cow Ghee/Tuppa,Bengaluru,1080,520
+142,Organic Cow Ghee/Tuppa,Hyderabad,768,195
+142,Organic Cow Ghee/Tuppa,Chennai,363,158
+142,Organic Cow Ghee/Tuppa,Lucknow,125,621
+143,Dates/Kharjura - Deseeded,Delhi,743,602
+143,Dates/Kharjura - Deseeded,Bengaluru,1004,468
+143,Dates/Kharjura - Deseeded,Hyderabad,1417,27
+143,Dates/Kharjura - Deseeded,Kolkata,1262,245
+143,Dates/Kharjura - Deseeded,Ahmedabad,1264,601
+143,Dates/Kharjura - Deseeded,Pune,481,106
+143,Dates/Kharjura - Deseeded,Jaipur,1373,374
+143,Dates/Kharjura - Deseeded,Lucknow,369,350
+144,Chutney - Sweet Mango Sliced (without Garlic),Delhi,925,173
+144,Chutney - Sweet Mango Sliced (without Garlic),Mumbai,1226,331
+144,Chutney - Sweet Mango Sliced (without Garlic),Hyderabad,814,485
+144,Chutney - Sweet Mango Sliced (without Garlic),Kolkata,25,128
+144,Chutney - Sweet Mango Sliced (without Garlic),Ahmedabad,473,331
+144,Chutney - Sweet Mango Sliced (without Garlic),Jaipur,1122,471
+144,Chutney - Sweet Mango Sliced (without Garlic),Lucknow,220,580
+145,Turmeric Powder/Arisina Pudi,Delhi,339,234
+145,Turmeric Powder/Arisina Pudi,Hyderabad,641,45
+145,Turmeric Powder/Arisina Pudi,Chennai,304,56
+145,Turmeric Powder/Arisina Pudi,Ahmedabad,1336,291
+145,Turmeric Powder/Arisina Pudi,Pune,1290,302
+145,Turmeric Powder/Arisina Pudi,Lucknow,470,137
+146,Bread - Fruit,Hyderabad,1121,265
+146,Bread - Fruit,Chennai,211,129
+146,Bread - Fruit,Kolkata,456,262
+146,Bread - Fruit,Pune,1449,468
+146,Bread - Fruit,Jaipur,935,341
+147,Bombay Street Food Spice Blend,Hyderabad,735,250
+147,Bombay Street Food Spice Blend,Chennai,1156,319
+147,Bombay Street Food Spice Blend,Kolkata,1127,429
+147,Bombay Street Food Spice Blend,Jaipur,890,551
+147,Bombay Street Food Spice Blend,Lucknow,1342,13
+148,Ragi Flakes,Hyderabad,1233,386
+148,Ragi Flakes,Ahmedabad,947,631
+148,Ragi Flakes,Jaipur,885,371
+148,Ragi Flakes,Lucknow,144,92
+149,Mustard Oil - Cold Pressed,Bengaluru,770,501
+149,Mustard Oil - Cold Pressed,Hyderabad,1197,480
+149,Mustard Oil - Cold Pressed,Chennai,470,256
+149,Mustard Oil - Cold Pressed,Kolkata,1458,244
+149,Mustard Oil - Cold Pressed,Ahmedabad,785,178
+149,Mustard Oil - Cold Pressed,Pune,654,342
+149,Mustard Oil - Cold Pressed,Jaipur,1169,556
+149,Mustard Oil - Cold Pressed,Lucknow,763,300
+150,Juice/Water Glass - Long Drink Nord,Delhi,771,361
+150,Juice/Water Glass - Long Drink Nord,Mumbai,1235,581
+150,Juice/Water Glass - Long Drink Nord,Bengaluru,1283,382
+150,Juice/Water Glass - Long Drink Nord,Chennai,70,116
+150,Juice/Water Glass - Long Drink Nord,Kolkata,1304,210
+150,Juice/Water Glass - Long Drink Nord,Ahmedabad,1283,204
+150,Juice/Water Glass - Long Drink Nord,Pune,703,410
+150,Juice/Water Glass - Long Drink Nord,Jaipur,605,452
+150,Juice/Water Glass - Long Drink Nord,Lucknow,485,204
+151,Glass Amaze Air Tight Jar - Pink,Delhi,568,388
+151,Glass Amaze Air Tight Jar - Pink,Bengaluru,537,291
+151,Glass Amaze Air Tight Jar - Pink,Hyderabad,928,177
+151,Glass Amaze Air Tight Jar - Pink,Chennai,117,185
+151,Glass Amaze Air Tight Jar - Pink,Kolkata,1425,273
+151,Glass Amaze Air Tight Jar - Pink,Pune,27,162
+151,Glass Amaze Air Tight Jar - Pink,Jaipur,1337,323
+151,Glass Amaze Air Tight Jar - Pink,Lucknow,994,17
+152,"Finger Brush For Kids - Blue, Ultra Soft",Bengaluru,80,544
+152,"Finger Brush For Kids - Blue, Ultra Soft",Hyderabad,113,499
+152,"Finger Brush For Kids - Blue, Ultra Soft",Chennai,820,355
+152,"Finger Brush For Kids - Blue, Ultra Soft",Kolkata,1324,461
+152,"Finger Brush For Kids - Blue, Ultra Soft",Ahmedabad,1282,428
+153,Water/Juice Glass  - Jupiter Long Glass,Delhi,446,573
+153,Water/Juice Glass  - Jupiter Long Glass,Mumbai,305,42
+153,Water/Juice Glass  - Jupiter Long Glass,Bengaluru,672,76
+153,Water/Juice Glass  - Jupiter Long Glass,Kolkata,767,84
+153,Water/Juice Glass  - Jupiter Long Glass,Ahmedabad,1167,82
+153,Water/Juice Glass  - Jupiter Long Glass,Jaipur,582,521
+154,Energy Bar - Choco Crunch,Delhi,861,109
+154,Energy Bar - Choco Crunch,Mumbai,544,298
+154,Energy Bar - Choco Crunch,Bengaluru,661,72
+154,Energy Bar - Choco Crunch,Hyderabad,48,209
+154,Energy Bar - Choco Crunch,Kolkata,518,611
+154,Energy Bar - Choco Crunch,Ahmedabad,311,77
+154,Energy Bar - Choco Crunch,Pune,1314,33
+154,Energy Bar - Choco Crunch,Jaipur,304,374
+154,Energy Bar - Choco Crunch,Lucknow,1309,196
+155,Breeze - Razor Blades,Mumbai,1238,360
+155,Breeze - Razor Blades,Bengaluru,433,569
+155,Breeze - Razor Blades,Hyderabad,693,616
+155,Breeze - Razor Blades,Chennai,774,122
+155,Breeze - Razor Blades,Ahmedabad,714,513
+155,Breeze - Razor Blades,Pune,895,307
+155,Breeze - Razor Blades,Jaipur,880,309
+155,Breeze - Razor Blades,Lucknow,946,244
+156,"Confeito Vermicelli Combo, Sprinkles",Delhi,1491,250
+156,"Confeito Vermicelli Combo, Sprinkles",Mumbai,243,213
+156,"Confeito Vermicelli Combo, Sprinkles",Bengaluru,637,507
+156,"Confeito Vermicelli Combo, Sprinkles",Hyderabad,246,392
+156,"Confeito Vermicelli Combo, Sprinkles",Ahmedabad,655,565
+156,"Confeito Vermicelli Combo, Sprinkles",Pune,257,430
+156,"Confeito Vermicelli Combo, Sprinkles",Jaipur,1437,186
+156,"Confeito Vermicelli Combo, Sprinkles",Lucknow,1058,24
+157,Olive Oil - Classic,Bengaluru,1457,492
+157,Olive Oil - Classic,Hyderabad,280,548
+157,Olive Oil - Classic,Kolkata,867,53
+157,Olive Oil - Classic,Pune,1217,596
+157,Olive Oil - Classic,Jaipur,1275,358
+157,Olive Oil - Classic,Lucknow,1010,456
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth",Mumbai,1099,597
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth",Bengaluru,225,116
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth",Hyderabad,1493,523
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth",Chennai,1000,578
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth",Kolkata,643,46
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth",Pune,1275,445
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth",Lucknow,1252,213
+159,Chia Seeds,Mumbai,826,354
+159,Chia Seeds,Bengaluru,687,216
+159,Chia Seeds,Hyderabad,747,101
+159,Chia Seeds,Kolkata,1111,140
+159,Chia Seeds,Pune,203,157
+159,Chia Seeds,Jaipur,1324,537
+160,Skin Cream,Delhi,627,409
+160,Skin Cream,Bengaluru,172,409
+160,Skin Cream,Hyderabad,452,509
+160,Skin Cream,Chennai,1309,84
+160,Skin Cream,Kolkata,402,24
+160,Skin Cream,Pune,1094,573
+160,Skin Cream,Jaipur,1147,649
+160,Skin Cream,Lucknow,165,131
+161,One Touch Air Purifier Freshener - Floral Bouquet Refill,Mumbai,984,343
+161,One Touch Air Purifier Freshener - Floral Bouquet Refill,Bengaluru,1087,388
+161,One Touch Air Purifier Freshener - Floral Bouquet Refill,Hyderabad,586,312
+161,One Touch Air Purifier Freshener - Floral Bouquet Refill,Chennai,971,214
+161,One Touch Air Purifier Freshener - Floral Bouquet Refill,Jaipur,1249,533
+161,One Touch Air Purifier Freshener - Floral Bouquet Refill,Lucknow,1063,389
+162,Water/Juice Glass,Delhi,230,587
+162,Water/Juice Glass,Mumbai,869,464
+162,Water/Juice Glass,Bengaluru,1101,506
+162,Water/Juice Glass,Chennai,969,595
+162,Water/Juice Glass,Kolkata,1384,177
+162,Water/Juice Glass,Ahmedabad,53,589
+162,Water/Juice Glass,Jaipur,1035,98
+162,Water/Juice Glass,Lucknow,571,351
+163,Color Naturals Creme Riche Ultra Hair Color - Raspberry Red,Mumbai,748,518
+163,Color Naturals Creme Riche Ultra Hair Color - Raspberry Red,Bengaluru,862,135
+163,Color Naturals Creme Riche Ultra Hair Color - Raspberry Red,Hyderabad,519,382
+163,Color Naturals Creme Riche Ultra Hair Color - Raspberry Red,Chennai,1148,640
+163,Color Naturals Creme Riche Ultra Hair Color - Raspberry Red,Lucknow,713,408
+164,Nomarks - Antimarks Soap For Oily Skin,Delhi,218,202
+164,Nomarks - Antimarks Soap For Oily Skin,Mumbai,865,240
+164,Nomarks - Antimarks Soap For Oily Skin,Hyderabad,481,558
+164,Nomarks - Antimarks Soap For Oily Skin,Chennai,954,235
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Delhi,219,399
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Bengaluru,154,343
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Hyderabad,514,282
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Chennai,998,374
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Kolkata,296,257
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Ahmedabad,831,627
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Pune,710,423
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Lucknow,129,451
+166,Baby Napkins - Mini Terry,Bengaluru,594,325
+166,Baby Napkins - Mini Terry,Chennai,1098,300
+166,Baby Napkins - Mini Terry,Kolkata,65,310
+166,Baby Napkins - Mini Terry,Ahmedabad,952,650
+166,Baby Napkins - Mini Terry,Pune,422,624
+166,Baby Napkins - Mini Terry,Lucknow,21,561
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Delhi,1414,234
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Mumbai,409,154
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Bengaluru,647,13
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Chennai,1453,608
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Kolkata,623,310
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Ahmedabad,632,603
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Jaipur,1261,162
+168,Snacks - Roasted Mixture Lime,Delhi,571,532
+168,Snacks - Roasted Mixture Lime,Mumbai,186,487
+168,Snacks - Roasted Mixture Lime,Hyderabad,1212,568
+168,Snacks - Roasted Mixture Lime,Chennai,1386,397
+168,Snacks - Roasted Mixture Lime,Kolkata,941,367
+168,Snacks - Roasted Mixture Lime,Ahmedabad,1468,95
+168,Snacks - Roasted Mixture Lime,Pune,178,374
+168,Snacks - Roasted Mixture Lime,Lucknow,956,475
+169,Organic Dosa Mix - Jowar,Delhi,698,182
+169,Organic Dosa Mix - Jowar,Mumbai,1455,650
+169,Organic Dosa Mix - Jowar,Bengaluru,1328,297
+169,Organic Dosa Mix - Jowar,Chennai,1316,602
+169,Organic Dosa Mix - Jowar,Kolkata,1262,126
+169,Organic Dosa Mix - Jowar,Pune,323,596
+169,Organic Dosa Mix - Jowar,Jaipur,1477,643
+169,Organic Dosa Mix - Jowar,Lucknow,706,115
+170,Lunch Box/Tiffin Set - Green BB 570 2,Mumbai,773,544
+170,Lunch Box/Tiffin Set - Green BB 570 2,Bengaluru,226,629
+170,Lunch Box/Tiffin Set - Green BB 570 2,Hyderabad,1072,458
+170,Lunch Box/Tiffin Set - Green BB 570 2,Chennai,170,362
+170,Lunch Box/Tiffin Set - Green BB 570 2,Kolkata,718,632
+170,Lunch Box/Tiffin Set - Green BB 570 2,Pune,227,160
+171,BCAA Energy Drink - Berry Flavour,Delhi,1331,290
+171,BCAA Energy Drink - Berry Flavour,Mumbai,1004,64
+171,BCAA Energy Drink - Berry Flavour,Hyderabad,1082,355
+171,BCAA Energy Drink - Berry Flavour,Chennai,919,540
+171,BCAA Energy Drink - Berry Flavour,Kolkata,318,86
+171,BCAA Energy Drink - Berry Flavour,Ahmedabad,799,412
+171,BCAA Energy Drink - Berry Flavour,Jaipur,737,24
+171,BCAA Energy Drink - Berry Flavour,Lucknow,540,92
+172,Coffee Energizing Face Scrub,Mumbai,867,607
+172,Coffee Energizing Face Scrub,Bengaluru,673,614
+172,Coffee Energizing Face Scrub,Chennai,1162,68
+172,Coffee Energizing Face Scrub,Ahmedabad,762,456
+172,Coffee Energizing Face Scrub,Pune,973,134
+172,Coffee Energizing Face Scrub,Jaipur,1133,253
+172,Coffee Energizing Face Scrub,Lucknow,500,607
+173,Pain Relief - Oil,Delhi,1147,375
+173,Pain Relief - Oil,Bengaluru,977,164
+173,Pain Relief - Oil,Chennai,1406,558
+173,Pain Relief - Oil,Kolkata,787,197
+173,Pain Relief - Oil,Ahmedabad,1078,374
+173,Pain Relief - Oil,Pune,139,299
+173,Pain Relief - Oil,Jaipur,406,159
+173,Pain Relief - Oil,Lucknow,383,617
+174,Ultra Soft New Born Diapers - Extra Small,Mumbai,798,515
+174,Ultra Soft New Born Diapers - Extra Small,Bengaluru,368,32
+174,Ultra Soft New Born Diapers - Extra Small,Chennai,339,283
+174,Ultra Soft New Born Diapers - Extra Small,Kolkata,760,155
+174,Ultra Soft New Born Diapers - Extra Small,Ahmedabad,1146,99
+174,Ultra Soft New Born Diapers - Extra Small,Pune,1187,416
+174,Ultra Soft New Born Diapers - Extra Small,Jaipur,1408,411
+174,Ultra Soft New Born Diapers - Extra Small,Lucknow,178,501
+175,Jungle Stimulating Facial Cleanser,Mumbai,1258,45
+175,Jungle Stimulating Facial Cleanser,Hyderabad,652,576
+175,Jungle Stimulating Facial Cleanser,Chennai,143,92
+175,Jungle Stimulating Facial Cleanser,Kolkata,1051,477
+175,Jungle Stimulating Facial Cleanser,Pune,1242,323
+175,Jungle Stimulating Facial Cleanser,Jaipur,1427,221
+176,Ylang Ylang Essential Oil,Delhi,1470,485
+176,Ylang Ylang Essential Oil,Mumbai,1089,153
+176,Ylang Ylang Essential Oil,Bengaluru,1333,516
+176,Ylang Ylang Essential Oil,Chennai,1093,532
+176,Ylang Ylang Essential Oil,Kolkata,355,246
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Mumbai,207,339
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Bengaluru,980,63
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Hyderabad,1402,15
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Chennai,1249,237
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Kolkata,448,130
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Ahmedabad,437,458
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Pune,1480,531
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Lucknow,1011,324
+178,Soap,Mumbai,1273,42
+178,Soap,Bengaluru,1162,326
+178,Soap,Hyderabad,1350,292
+178,Soap,Ahmedabad,26,404
+178,Soap,Pune,1014,310
+178,Soap,Jaipur,318,507
+178,Soap,Lucknow,462,149
+179,Yellow Balm,Delhi,404,127
+179,Yellow Balm,Mumbai,771,286
+179,Yellow Balm,Bengaluru,1184,94
+179,Yellow Balm,Hyderabad,580,284
+179,Yellow Balm,Chennai,1309,555
+179,Yellow Balm,Kolkata,1013,644
+179,Yellow Balm,Ahmedabad,653,80
+179,Yellow Balm,Pune,743,328
+179,Yellow Balm,Jaipur,484,15
+179,Yellow Balm,Lucknow,889,527
+180,"LED Bulb - 12 Watt, Cool Daylight, B22 Base",Delhi,827,267
+180,"LED Bulb - 12 Watt, Cool Daylight, B22 Base",Mumbai,694,25
+180,"LED Bulb - 12 Watt, Cool Daylight, B22 Base",Bengaluru,764,185
+180,"LED Bulb - 12 Watt, Cool Daylight, B22 Base",Chennai,28,482
+180,"LED Bulb - 12 Watt, Cool Daylight, B22 Base",Pune,738,337
+180,"LED Bulb - 12 Watt, Cool Daylight, B22 Base",Jaipur,313,477
+181,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Delhi,91,242
+181,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Mumbai,1371,96
+181,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Hyderabad,1290,129
+181,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Ahmedabad,209,67
+181,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Jaipur,1283,638
+181,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Lucknow,795,388
+182,Jaggery/Bella Powder - Pesticide Free,Delhi,1330,542
+182,Jaggery/Bella Powder - Pesticide Free,Bengaluru,333,496
+182,Jaggery/Bella Powder - Pesticide Free,Hyderabad,656,522
+182,Jaggery/Bella Powder - Pesticide Free,Chennai,421,217
+182,Jaggery/Bella Powder - Pesticide Free,Kolkata,540,188
+182,Jaggery/Bella Powder - Pesticide Free,Jaipur,225,427
+182,Jaggery/Bella Powder - Pesticide Free,Lucknow,915,131
+183,Ready Masala - Kashmiri Meat,Delhi,188,185
+183,Ready Masala - Kashmiri Meat,Mumbai,33,297
+183,Ready Masala - Kashmiri Meat,Bengaluru,944,540
+183,Ready Masala - Kashmiri Meat,Kolkata,216,541
+183,Ready Masala - Kashmiri Meat,Ahmedabad,639,316
+183,Ready Masala - Kashmiri Meat,Pune,835,436
+183,Ready Masala - Kashmiri Meat,Jaipur,1235,106
+183,Ready Masala - Kashmiri Meat,Lucknow,262,35
+184,"Water Saving Aerator, Switch",Delhi,273,305
+184,"Water Saving Aerator, Switch",Bengaluru,1186,286
+184,"Water Saving Aerator, Switch",Kolkata,349,158
+184,"Water Saving Aerator, Switch",Ahmedabad,1126,422
+184,"Water Saving Aerator, Switch",Pune,851,79
+184,"Water Saving Aerator, Switch",Jaipur,231,260
+184,"Water Saving Aerator, Switch",Lucknow,751,140
+185,Lemongrass Anti-Pigmentation Massage Cream,Mumbai,776,533
+185,Lemongrass Anti-Pigmentation Massage Cream,Hyderabad,254,176
+185,Lemongrass Anti-Pigmentation Massage Cream,Kolkata,472,320
+185,Lemongrass Anti-Pigmentation Massage Cream,Ahmedabad,993,77
+185,Lemongrass Anti-Pigmentation Massage Cream,Jaipur,658,181
+186,Breakfast Mix - Finger Millet Ragi Idli,Delhi,999,333
+186,Breakfast Mix - Finger Millet Ragi Idli,Mumbai,146,220
+186,Breakfast Mix - Finger Millet Ragi Idli,Bengaluru,235,143
+186,Breakfast Mix - Finger Millet Ragi Idli,Hyderabad,1462,84
+186,Breakfast Mix - Finger Millet Ragi Idli,Chennai,97,250
+186,Breakfast Mix - Finger Millet Ragi Idli,Kolkata,1090,595
+186,Breakfast Mix - Finger Millet Ragi Idli,Ahmedabad,475,360
+186,Breakfast Mix - Finger Millet Ragi Idli,Lucknow,657,541
+187,Herbal Wine Grapefruit Lip Balm,Mumbai,55,601
+187,Herbal Wine Grapefruit Lip Balm,Hyderabad,663,403
+187,Herbal Wine Grapefruit Lip Balm,Chennai,1164,331
+187,Herbal Wine Grapefruit Lip Balm,Kolkata,1117,211
+187,Herbal Wine Grapefruit Lip Balm,Ahmedabad,1075,255
+187,Herbal Wine Grapefruit Lip Balm,Lucknow,1213,156
+188,Masala Upma,Delhi,734,539
+188,Masala Upma,Bengaluru,1317,118
+188,Masala Upma,Hyderabad,1156,341
+188,Masala Upma,Chennai,260,310
+188,Masala Upma,Kolkata,1155,132
+188,Masala Upma,Ahmedabad,280,604
+188,Masala Upma,Pune,911,592
+188,Masala Upma,Jaipur,745,124
+189,Maharishi Ayurveda Ayush Kwath,Delhi,894,599
+189,Maharishi Ayurveda Ayush Kwath,Mumbai,724,410
+189,Maharishi Ayurveda Ayush Kwath,Hyderabad,306,524
+189,Maharishi Ayurveda Ayush Kwath,Chennai,598,146
+189,Maharishi Ayurveda Ayush Kwath,Kolkata,511,264
+189,Maharishi Ayurveda Ayush Kwath,Ahmedabad,1012,491
+189,Maharishi Ayurveda Ayush Kwath,Pune,809,163
+189,Maharishi Ayurveda Ayush Kwath,Jaipur,224,570
+189,Maharishi Ayurveda Ayush Kwath,Lucknow,305,311
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Delhi,468,360
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Mumbai,446,58
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Bengaluru,254,379
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Hyderabad,1188,567
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Chennai,944,409
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Kolkata,1072,168
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Ahmedabad,1009,152
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Pune,146,99
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),Jaipur,425,281
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,Bengaluru,1288,347
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,Hyderabad,326,503
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,Chennai,1310,83
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,Kolkata,824,477
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,Ahmedabad,268,283
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,Pune,120,131
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,Jaipur,1455,68
+192,Bath & Body Oil - Oriental Spicy Rose,Delhi,1156,579
+192,Bath & Body Oil - Oriental Spicy Rose,Mumbai,302,313
+192,Bath & Body Oil - Oriental Spicy Rose,Hyderabad,1259,236
+192,Bath & Body Oil - Oriental Spicy Rose,Chennai,502,255
+192,Bath & Body Oil - Oriental Spicy Rose,Ahmedabad,1026,19
+192,Bath & Body Oil - Oriental Spicy Rose,Pune,239,537
+192,Bath & Body Oil - Oriental Spicy Rose,Jaipur,536,504
+192,Bath & Body Oil - Oriental Spicy Rose,Lucknow,795,32
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Delhi,442,580
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Mumbai,268,497
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Bengaluru,66,567
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Hyderabad,1318,410
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Chennai,246,68
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Kolkata,228,378
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Jaipur,1047,197
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Lucknow,798,170
+194,Brioche,Delhi,239,151
+194,Brioche,Hyderabad,1486,278
+194,Brioche,Chennai,111,191
+194,Brioche,Kolkata,20,11
+194,Brioche,Ahmedabad,812,590
+194,Brioche,Pune,1257,533
+194,Brioche,Lucknow,979,550
+195,Onion - Rings,Delhi,284,574
+195,Onion - Rings,Mumbai,1388,17
+195,Onion - Rings,Hyderabad,176,295
+195,Onion - Rings,Chennai,670,337
+195,Onion - Rings,Kolkata,1186,162
+195,Onion - Rings,Pune,688,396
+195,Onion - Rings,Jaipur,1268,297
+196,Cotton Mop With Telescopic Handle 150 Cm,Delhi,1163,545
+196,Cotton Mop With Telescopic Handle 150 Cm,Bengaluru,549,299
+196,Cotton Mop With Telescopic Handle 150 Cm,Hyderabad,267,161
+196,Cotton Mop With Telescopic Handle 150 Cm,Chennai,771,154
+196,Cotton Mop With Telescopic Handle 150 Cm,Kolkata,925,507
+196,Cotton Mop With Telescopic Handle 150 Cm,Lucknow,1449,196
+197,Kale,Delhi,767,91
+197,Kale,Mumbai,1061,591
+197,Kale,Kolkata,238,197
+197,Kale,Ahmedabad,669,150
+197,Kale,Pune,837,361
+197,Kale,Jaipur,1019,571
+197,Kale,Lucknow,773,87
+198,"Notebook - Unruled, Long",Delhi,1207,19
+198,"Notebook - Unruled, Long",Mumbai,1204,78
+198,"Notebook - Unruled, Long",Chennai,1260,45
+198,"Notebook - Unruled, Long",Kolkata,757,91
+198,"Notebook - Unruled, Long",Pune,315,577
+198,"Notebook - Unruled, Long",Lucknow,960,576
+199,Instant Noodles - Soy & Vinegar,Delhi,54,637
+199,Instant Noodles - Soy & Vinegar,Mumbai,885,500
+199,Instant Noodles - Soy & Vinegar,Bengaluru,989,337
+199,Instant Noodles - Soy & Vinegar,Chennai,1432,552
+199,Instant Noodles - Soy & Vinegar,Kolkata,315,17
+199,Instant Noodles - Soy & Vinegar,Jaipur,927,423
+199,Instant Noodles - Soy & Vinegar,Lucknow,1338,240
